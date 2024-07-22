@@ -16,7 +16,7 @@ This project is a full-stack web application that replicates the blog section of
 
 ## Demo
 
-Add a link to your deployed application here.
+https://gregarious-blancmange-e44682.netlify.app/blogs
 
 ## Features
 
@@ -45,8 +45,8 @@ Add a link to your deployed application here.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/froker-blog-clone.git
-   cd froker-blog-clone
+   git clone https://github.com/himanshu-hg-github/froker.git
+   cd froker
    ```
 
 2. Set up the backend:
@@ -57,7 +57,7 @@ Add a link to your deployed application here.
 
 3. Set up environment variables in the `.env` file:
    ```env
-   MONGO_URI=your_mongodb_connection_string
+   MONGO_URI=mongodb_connection_string
    PORT=5000
    ```
 

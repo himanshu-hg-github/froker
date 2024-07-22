@@ -14,7 +14,7 @@ This project is a full-stack web application that replicates the blog section of
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
+## Demo - hosted on Netlify
 
 https://gregarious-blancmange-e44682.netlify.app/blogs
 
@@ -107,6 +107,14 @@ Once the installation steps are completed, the application should be running loc
 
 ### Edit Blog Form
 ![Edit Blog Form](screenshots/edit-blog-form.png)
+
+#### Extra Work
+
+### Hosted on Netlify
+Link provided above
+
+### Newsletter Subscription
+![Newsletter Subcription Form](screenshots/newsletter-subscription.png)
 
 ## Contributing
 

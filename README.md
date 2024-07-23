@@ -102,11 +102,11 @@ Once the installation steps are completed, the application should be running loc
 ### Blog Post
 ![Blog Post](screenshots/blog-post.png)
 
-### Create Blog Form
-![Create Blog Form](screenshots/create-blog-form.png)
+### Pagination
+![Create Blog Form](screenshots/pagination.png)
 
-### Edit Blog Form
-![Edit Blog Form](screenshots/edit-blog-form.png)
+### Tab blinks
+![Edit Blog Form](screenshots/tab-blinks.png)
 
 #### Extra Work :
 

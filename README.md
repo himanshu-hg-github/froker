@@ -108,7 +108,7 @@ Once the installation steps are completed, the application should be running loc
 ### Edit Blog Form
 ![Edit Blog Form](screenshots/edit-blog-form.png)
 
-#### Extra Work
+#### Extra Work :
 
 ### Hosted on Netlify
 Link provided above

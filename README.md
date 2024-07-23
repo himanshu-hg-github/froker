@@ -15,7 +15,7 @@ This project is a full-stack web application that replicates the blog section of
 
 ## Demo - hosted on Netlify
 
-https://gregarious-blancmange-e44682.netlify.app/blogs
+https://gregarious-blancmange-e44682.netlify.app/
 
 ## Features
 

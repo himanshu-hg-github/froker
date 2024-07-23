@@ -12,7 +12,6 @@ This project is a full-stack web application that replicates the blog section of
 - [API Endpoints](#api-endpoints)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo - hosted on Netlify
 
@@ -110,10 +109,10 @@ Once the installation steps are completed, the application should be running loc
 
 #### Extra Work :
 
-### Hosted on Netlify
+### 1) Hosted on Netlify
 Link provided above
 
-### Newsletter Subscription
+### 2) Newsletter Subscription
 ![Newsletter Subcription Form](screenshots/newsletter-subscription.png)
 
 ## Contributing
